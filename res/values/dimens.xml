@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_droplay">48dp</dimen>
+    <dimen name="logo_arcade">16dp</dimen>
+    <dimen name="your_score">32dp</dimen>
+    <dimen name="score">66.67dp</dimen>
+    <dimen name="credits_big">20.67dp</dimen>
+    <dimen name="credits_normal">16.67dp</dimen>
+    <dimen name="credits_small">10dp</dimen>
+    <dimen name="one_dp">4dp</dimen>
+    <dimen name="best_score">9.33dp</dimen>
+</resources>
